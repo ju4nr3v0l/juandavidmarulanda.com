@@ -1,15 +1,17 @@
 /*
- Theme Name:   X
- Theme URI:    http://theme.co/x/
- Description:  X child
- Author:       @ju4nr3v0l
- Author URI:   http://juandavidmarulanda.com
- Template:     x_child
- Version:      1.0.0
- Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
- Text Domain:  X-child
+
+Theme Name: X_Child
+Theme URI: http://theme.co/x/
+Author: Themeco
+Author URI: http://theme.co/
+Description: An immensely powerful and endlessly customizable WordPress theme.
+Version: 4.0.1
+License: GNU General Public License v2.0
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: __x__
+
 */
-@import url("../X/style.css");
+@import url("../x/style.css");
 
 /* =Aquí empieza la personalización de tu tema
 -------------------------------------------------------------- */
